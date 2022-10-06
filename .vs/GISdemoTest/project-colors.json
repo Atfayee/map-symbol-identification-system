@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab0f1ff7-054a-48b0-a569-0af39bc88ff0": {
+      "ProjectGuid": "ab0f1ff7-054a-48b0-a569-0af39bc88ff0",
+      "DisplayName": "GISdemoTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
